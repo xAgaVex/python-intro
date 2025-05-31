@@ -1,6 +1,4 @@
 
-# Projekt: Wybór laptopa – analiza MCDM (TOPSIS + SPOTIS)
-
 
 W ramach zajęć mieliśmy zrobić analizę z użyciem metod MCDM. Ja zdecydowałam się porównać 4 różne laptopy, patrząc na takie rzeczy jak:
 - cena,
@@ -56,7 +54,3 @@ Jak widać – zależy co dla kogo ważniejsze. Jak ktoś chce wydajność, to C
 Obie metody dały sensowne wyniki i pokazały, że warto analizować na kilka sposobów.
 
 ---
-
-## Info
-
-Zadanie z laboratoriów – **Programowanie zaawansowane, lab 4**.
