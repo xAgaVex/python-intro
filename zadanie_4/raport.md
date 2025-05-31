@@ -1,6 +1,6 @@
 
 
-W ramach zajęć mieliśmy zrobić analizę z użyciem metod MCDM. Ja zdecydowałam się porównać 4 różne laptopy, patrząc na takie rzeczy jak:
+W ramach zajęć mieliśmy zrobić analizę z użyciem metod MCDM. Ja zdecydowałem się porównać 4 różne laptopy, patrząc na takie rzeczy jak:
 - cena,
 - wydajność,
 - ile trzyma bateria,
