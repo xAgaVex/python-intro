@@ -12,7 +12,7 @@ Zastosowałam dwie metody: **TOPSIS** i **SPOTIS**, bo były wymagane.
 
 ## Dane, które użyłam
 
-Zrobiłam sobie macierz decyzyjną z 4 laptopami i 4 kryteriami. Wagi wymyśliłam ręcznie (tak żeby miało sens):
+Zrobiłem sobie macierz decyzyjną z 4 laptopami i 4 kryteriami. Wagi wymyśliłem ręcznie (tak żeby miało sens):
 
 | Kryterium      | Co z nim robimy     | Waga |
 |----------------|---------------------|------|
