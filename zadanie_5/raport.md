@@ -1,7 +1,7 @@
 
-W ramach labów trzeba było znaleźć jakieś biblioteki do wybranego tematu. Ja wybrałam **analizę tekstu** – bo ciekawi mnie NLP i łatwo coś pokazać bez kombinowania.
+W ramach labów trzeba było znaleźć jakieś biblioteki do wybranego tematu. Ja wybrałem **analizę tekstu** – bo ciekawi mnie NLP i łatwo coś pokazać bez kombinowania.
 
-Znalazłam dwie biblioteki:
+Znalazłem dwie biblioteki:
 - `TextBlob` – superprosta, fajna na start
 - `spaCy` – trochę bardziej zaawansowana, ale też do ogarnięcia
 
