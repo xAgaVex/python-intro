@@ -6,11 +6,11 @@ W ramach zajęć mieliśmy zrobić analizę z użyciem metod MCDM. Ja zdecydowa�
 - ile trzyma bateria,
 - i ile waży.
 
-Zastosowałam dwie metody: **TOPSIS** i **SPOTIS**, bo były wymagane.
+Zastosowałem dwie metody: **TOPSIS** i **SPOTIS**, bo były wymagane.
 
 ---
 
-## Dane, które użyłam
+## Dane, które użyłem
 
 Zrobiłem sobie macierz decyzyjną z 4 laptopami i 4 kryteriami. Wagi wymyśliłem ręcznie (tak żeby miało sens):
 
